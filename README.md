@@ -149,7 +149,8 @@ Ensure you have internet access to retrieve API data.
 
 This project uses publicly accessible data from Databallr's API
 endpoint.\
-All data rights belong to Databallr.
+All data rights belong to Databallr.\
+README.MD generated using Generative AI. All code is organic.
 
 ------------------------------------------------------------------------
 
